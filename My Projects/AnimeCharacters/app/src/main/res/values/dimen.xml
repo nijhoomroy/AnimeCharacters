@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="title_text">18sp</dimen>
+    <dimen name="synopsis_text">12sp</dimen>
+    <dimen name="searchview_size">50sp</dimen>
+</resources>
